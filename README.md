@@ -1,29 +1,76 @@
-# 📊 Data Analytics & Visualization Portfolio
+📊 Data Analytics Portfolio | Majd
 
-Welcome to my data analytics repository! This folder showcases end-to-end data projects including **SQL Data Cleaning**, **Excel Dynamic Dashboards**, and **Power BI Interactive Reports**.
+Welcome to my Data Analytics Portfolio! This repository showcases hands-on projects in data cleaning, exploratory data analysis, business intelligence, and data visualization using SQL, Excel, and Power BI.
 
----
+🛠️ Technical Skills
 
-## 🛍️ 1. Emergency Supplies Data Analysis (Power BI)
-* **Tools Used:** Power BI Desktop, Power Query, DAX.
-* **Overview:** Interactive analysis of emergency supplies distribution, tracking inventory metrics and demand trends.
-
-### 🖼️ Dashboard Preview
-![Emergency Supplies Dashboard](Emergancy-Supplies-Dashboard.png)
+- SQL: Data Cleaning, Data Transformation, Aggregations, and Exploratory Data Analysis
+- Microsoft Excel: Pivot Tables, Pivot Charts, and Interactive Dashboards
+- Power BI: Power Query, DAX, Data Modeling, and Interactive Reports
 
 ---
 
-## 📉 2. Global Layoffs & Funding Analysis (Excel)
-* **Tools Used:** Microsoft Excel, Pivot Tables, Dynamic Pivot Charts.
-* **Overview:** Comprehensive analysis of global tech layoffs, analyzing top companies, industry impact, and funding stage trends.
+📦 1. Emergency Supplies Analysis — Power BI
 
-### 🖼️ Dashboard Preview
-![Global Layoffs Dashboard](Layoffs%20Dashboard.png)
+Tools: Power BI Desktop, Power Query, DAX
+
+Objective: Analyze emergency supplies distribution and explore inventory metrics and demand trends.
+
+Key Activities:
+
+- Explore inventory and distribution data.
+- Track relevant performance indicators.
+- Build interactive visualizations to support data exploration.
+
+Dashboard Preview
+
+"Emergency Supplies Dashboard" (Emergancy-Supplies-Dashboard.png)
 
 ---
 
-## 🧹 3. SQL Data Cleaning Pipelines
-* **`layoffs_data_cleaning.sql`**: Complete data cleaning pipeline in MySQL (handling duplicates, standardizing text, null values, and removing unnecessary columns).
-* **`sales_data_cleaning.sql`**: Sales order ETL and cleaning operations.
-* **`HR_Attrition_Project.md`**: HR dataset analysis and aggregation documentation.
-  
+📉 2. Global Layoffs Analysis — Excel
+
+Tools: Microsoft Excel, Pivot Tables, Pivot Charts
+
+Objective: Explore global technology layoffs and identify patterns across companies, industries, and funding stages.
+
+Key Activities:
+
+- Compare layoffs across companies and industries.
+- Analyze trends over time.
+- Explore differences across company funding stages.
+- Present findings through charts and dashboard visualizations.
+
+Dashboard Preview
+
+"Global Layoffs Dashboard" (Layoffs%20Dashboard.png)
+
+---
+
+🧹 3. SQL Data Cleaning Projects
+
+Layoffs Data Cleaning
+
+File: ""layoffs_data_cleaning.sql"" (layoffs_data_cleaning.sql)
+
+Clean and standardize layoffs data using MySQL, including duplicate handling, text standardization, null-value treatment, and column cleanup.
+
+Sales Data Cleaning
+
+File: ""sales_data_cleaning.sql"" (sales_data_cleaning.sql)
+
+Apply SQL data-cleaning and transformation techniques to sales order data.
+
+HR Attrition Analysis
+
+File: ""HR_Attrition_Project.md"" (HR_Attrition_Project.md)
+
+Explore employee attrition data and document SQL-based analysis and aggregations.
+
+---
+
+📌 About This Portfolio
+
+These projects demonstrate practical applications of SQL, Excel, and Power BI for data preparation, analysis, and visualization.
+
+I aim to develop clear, reliable, and useful data insights that support business understanding and decision-making.
